@@ -7,3 +7,11 @@ This project is a machine learning-based system that classifies messages as spam
 3. NumPy
 4. Scikit-Learn
 5. Streamlit 
+
+project-folder/
+│── spam.csv/
+│── notebooks/
+│── src/
+│── model.pkl
+│── app.py
+│── README.md
